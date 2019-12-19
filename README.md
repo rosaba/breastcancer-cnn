@@ -29,6 +29,8 @@ For pip (https://www.tensorflow.org/install/pip):
       (maybe for later we could use: tensorflow-gpu ???)
    -> verify installation:
       python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
+6. leave virtual environment (when your done):
+   -> deactivate
 
 
 ## Tensorflow tutorials:
