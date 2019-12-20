@@ -33,8 +33,7 @@ ConvNet for classification of breastcancer (IDC)
 1. im Projektverzeichnis: pipenv install
 2. pipenv shell
 3. auf der Shell dann: python -m ipykernel install --user --name=BreastCancer
-
-
+4. pip install opencv-python
 
 ## Tensorflow tutorials:
 
