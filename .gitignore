@@ -1,2 +1,4 @@
 #Ignore
 data/
+cnn_model/
+BreastCancerVEnv/
