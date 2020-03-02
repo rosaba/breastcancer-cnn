@@ -1,6 +1,4 @@
 # BreastCancer
-Convolutional Neural Network with Pytorch
-
 In this project we present our Convolutional Neural Network for automatic detection and visual analysis of invasive ductal carcinoma (IDC) tissue regions from whole slide images (WSI) of breast cancer.
 
 # Installation
