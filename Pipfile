@@ -11,9 +11,10 @@ numpy = "*"
 matplotlib = "*"
 ipykernel = "*"
 plotly = "*"
-tensorflow = "*"
+torch = "*"
 sklearn = "*"
 bokeh = "*"
+torchvision = "*"
 
 [requires]
 python_version = "3.6.9"
